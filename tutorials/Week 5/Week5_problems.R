@@ -35,12 +35,14 @@ getwd()
 # a. Correlation
 # -------------------------------#
 
-df <- read.csv("../../datasets/fictional_data.csv")
+df <- read.csv("C:/Users/nalia/Documents/Doctorat TCD/Quants I/Tutorial/StatsI_2026/datasets/fictional_data.csv")
 View(df)
 
 # Create a scatter plot 
+plot(df$edu,df$income)
 
 # Calculate correlation
+lm
 
 # Add correlation to scatter plot
 

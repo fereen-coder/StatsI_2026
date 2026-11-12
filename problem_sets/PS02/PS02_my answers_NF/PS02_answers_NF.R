@@ -178,6 +178,8 @@ lm(water ~ reserved, data=data)
 #when there is an increase in 1 unit of X, there is a
 #at X=0, Y=. every one unit increase of X is associated a ___ in Y. on average.
 
+qnorm(92, mean = 0, sd = 1, lower.tail = TRUE)
+
 
 
 

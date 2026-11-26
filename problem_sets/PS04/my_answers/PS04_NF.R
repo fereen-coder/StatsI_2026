@@ -155,12 +155,12 @@ qG
 t_stat1 <- 0.042 / 0.016
 t_stat1
 
-df <- 131 - 1
+df <- 131 - 2 - 1
 df
 
 2*pt(t_stat1, df, lower.tail=FALSE)
-#0.009703405
-#0.009703405 < 0.05 so we can reject the null hypothesis that our coefficient is 0,
+#0.00972002
+#0.00972002 < 0.05 so we can reject the null hypothesis that our coefficient is 0,
 #meaning there is an association between having the yard signs in a precinct
 #and the vote share for Ken Cuccinelli.
 
@@ -176,11 +176,11 @@ df
 t_stat2 <- 0.042 / 0.013
 t_stat2
 
-df2 <- 131 - 1
+df2 <- 131 - 2 - 1
 df2
 
 2*pt(t_stat2, df2, lower.tail=FALSE)
-#0.001563955 < 0.05 so we can reject the null hypothesis that our coefficient is 0,
+#0.00156946 < 0.05 so we can reject the null hypothesis that our coefficient is 0,
 #meaning there is an association between being next to precincts with the yard signs
 #and the vote share for Ken Cuccinelli.
 

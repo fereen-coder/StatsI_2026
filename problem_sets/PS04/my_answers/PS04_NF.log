@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.9.11)  26 NOV 2026 12:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.9.11)  26 NOV 2026 14:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1003,20 +1003,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 254--255
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 256--261
+Underfull \hbox (badness 10000) in paragraph at lines 256--259
 
  []
 
 (PS04_NF.R) [6] (PS04_NF.R) (PS04_NF.R)
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <12> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 291.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 292.
  [7]
-Underfull \hbox (badness 10000) in paragraph at lines 297--300
+Underfull \hbox (badness 10000) in paragraph at lines 298--301
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 302--307
+Underfull \hbox (badness 10000) in paragraph at lines 303--308
 
  []
 
@@ -1052,7 +1052,7 @@ r8.pfb><C:/Users/nalia/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfont
 s/cm/cmsy10.pfb><C:/Users/nalia/AppData/Local/Programs/MiKTeX/fonts/type1/publi
 c/amsfonts/cm/cmti10.pfb><C:/Users/nalia/AppData/Local/Programs/MiKTeX/fonts/ty
 pe1/public/amsfonts/cm/cmtt12.pfb>
-Output written on PS04_NF.pdf (9 pages, 174023 bytes).
+Output written on PS04_NF.pdf (9 pages, 174156 bytes).
 PDF statistics:
  169 PDF objects out of 1000 (max. 8388607)
  46 named destinations out of 1000 (max. 500000)
